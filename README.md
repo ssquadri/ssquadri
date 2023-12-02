@@ -2,7 +2,7 @@
   
 - I am looking for job in Azure & Cloud Admin / Pre-Sales / Support roles.
 
-- You can reach me through
+- You can reach me through.
   
 - Linkedin - https://www.linkedin.com/in/syed-sibghatullah-quadri/
 
