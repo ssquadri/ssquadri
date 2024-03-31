@@ -1,4 +1,4 @@
-- Hi , I am Syed Sibghatullah Quadri
+- Hi , I am Syed Sibghatullah Quadri, I am from a small town in Maharashtra (India)
   
 - I work as ISV-Cloud Migration Associate in Crayon Software Experts (Bangalore) India.
 
