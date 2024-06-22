@@ -1,14 +1,14 @@
 - Hi , I am Syed Sibghatullah Quadri, I am from a small town in Maharashtra (India)
   
-- I work as ISV-Cloud Migration Associate in Crayon Software Experts (Bangalore) India.
+- I work for Crayon Software Experts (Bangalore) India.
 
-- I work in AWS,Azure Migration,Marketplace Listing, FTR Activity for AWS APN portal, and of course Documentation of these activities
+- My work revolves around Multi-Cloud deployments,Infra as Code using Powershell in Azure & Cloud Migrations.
 
-- I am learning about Red Hat Products, Acronis Backup (BaaS & DRaaS) ,Veeam , VMware,etc
+- I am believe in lifelong learning So, these days i am learning about AI/Ops , ML /Ops ,Multi-Cloud & Kubernetes.
 
-- My Dream is to work for a Peaceful Permanant Remote Job which i can do from my hometown with beautiful Nature View.(Getting rid of Daily traffic,Saving water,Reducing Pollution,Saving money,Spending quality time with family,Enjoying nature view, and increasing productivity)
+- My Dream is to work for International Remote Job with Distributed team from various countries
 
-- If you can help me with such Dream Job please reach out to me ASAP.
+- If you can help me with such Dream Job please reach out to me ASAP.(My Notice Period is 60 days)
   
 - Linkedin - https://www.linkedin.com/in/syed-sibghatullah-quadri/
 
