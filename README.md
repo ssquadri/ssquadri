@@ -1,14 +1,16 @@
 - Hi , I am Syed Sibghatullah Quadri, I am from a small town in Maharashtra (India)
   
-- I work for Crayon Software Experts (Bangalore) India.
+- I currently work for Crayon Software Experts (Bangalore) India.
 
-- My work revolves around Multi-Cloud deployments,Infra as Code using Powershell in Azure & Cloud Migrations.
+- My work revolves around Cloud deployments,Troubleshooting & Cloud Migrations on AWS & Azure.
 
-- I am believe in lifelong learning So, these days i am learning about AI/Ops , ML /Ops ,Multi-Cloud & Kubernetes.
+- I am keep upskilling & sharpening my skills So, these days i am learning about Data/Ops ,  Dev/Ops , & Ai
 
-- My Dream is to work for International Remote Job with Distributed team from various countries
+- My Dream is to work for a Permanent Remote Job in Cloud/DevOps/Admin.
 
-- If you can help me with such Dream Job please reach out to me ASAP.(My Notice Period is 60 days)
+- Why should you consider me for such job? Please Evaluate me based on my Projects & Certifications in the below repositories
+
+- If you think i can add value to your team & Organisation through my skills feel free to connect with me.
   
 - Linkedin - https://www.linkedin.com/in/syed-sibghatullah-quadri/
 
