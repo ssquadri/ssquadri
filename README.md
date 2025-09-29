@@ -4,7 +4,6 @@
 
 - Visit my personal website to know more about me - https://ssquadri.github.io/SSQ/
 
-- Contact Details-
 - Linkedin - https://www.linkedin.com/in/syed-sibghatullah-quadri/
 - Email- ssquadri195@gmail.com
 - Mobile- +91-8421031233
