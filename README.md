@@ -1,6 +1,6 @@
 - Hi , I am Syed Sibghatullah Quadri, I am from a small town in Maharashtra (India)
   
-- I currently work for Crayon Software Experts (Bangalore) India.
+- I currently work in Bangalore India.
 
 - Visit my personal website to know more about me - https://ssquadri.github.io/SSQ/
 
